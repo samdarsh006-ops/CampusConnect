@@ -1,0 +1,10 @@
+PROJECT: CampusConnect
+TOPIC: Smart Campus Event & Club Management System
+LANGUAGE: C++17
+TYPE: Console-based OOP mini project
+
+Student Name: [Your Name]
+UID: [Your UID]
+Faculty: [Faculty Name]
+
+GitHub repository URL: [Leave blank; add after upload]

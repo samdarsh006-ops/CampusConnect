@@ -1,0 +1,108 @@
+
+============================================
+              CAMPUSCONNECT
+       Campus Event & Club Management
+============================================
+1. View all events
+2. Register for an event
+3. View student clubs
+4. View registrations
+5. Event summary
+6. Exit
+Enter your choice: 
+---------------- CAMPUS EVENTS ----------------
+ID    Event                      Type          Date          Seats     Details
+-----------------------------------------------------------------------------------------------
+101   Python Bootcamp            Workshop      20-11-2026    39/40     Instructor: Data Science Faculty
+102   CU Cultural Night          Cultural      25-11-2026    100/100   Venue: Open Air Theatre
+103   Future of AI               Seminar       28-11-2026    60/60     Department: Computer Science
+
+============================================
+              CAMPUSCONNECT
+       Campus Event & Club Management
+============================================
+1. View all events
+2. Register for an event
+3. View student clubs
+4. View registrations
+5. Event summary
+6. Exit
+Enter your choice: 
+--------------- STUDENT CLUBS -----------------
+ID      Club                     Focus
+1       CodeCrafters             Programming and development
+2       Cultural Crew            Music, dance and theatre
+3       EcoSphere                Environment and sustainability
+
+============================================
+              CAMPUSCONNECT
+       Campus Event & Club Management
+============================================
+1. View all events
+2. Register for an event
+3. View student clubs
+4. View registrations
+5. Event summary
+6. Exit
+Enter your choice: 
+Total events: 3
+Workshops: 1
+Cultural events: 1
+Seminars: 1
+
+============================================
+              CAMPUSCONNECT
+       Campus Event & Club Management
+============================================
+1. View all events
+2. Register for an event
+3. View student clubs
+4. View registrations
+5. Event summary
+6. Exit
+Enter your choice: Enter event ID: Enter student name (avoid | character): Enter student UID: Registration successful!
+
+============================================
+              CAMPUSCONNECT
+       Campus Event & Club Management
+============================================
+1. View all events
+2. Register for an event
+3. View student clubs
+4. View registrations
+5. Event summary
+6. Exit
+Enter your choice: 
+---------------- CAMPUS EVENTS ----------------
+ID    Event                      Type          Date          Seats     Details
+-----------------------------------------------------------------------------------------------
+101   Python Bootcamp            Workshop      20-11-2026    38/40     Instructor: Data Science Faculty
+102   CU Cultural Night          Cultural      25-11-2026    100/100   Venue: Open Air Theatre
+103   Future of AI               Seminar       28-11-2026    60/60     Department: Computer Science
+
+============================================
+              CAMPUSCONNECT
+       Campus Event & Club Management
+============================================
+1. View all events
+2. Register for an event
+3. View student clubs
+4. View registrations
+5. Event summary
+6. Exit
+Enter your choice: 
+------------- REGISTRATION RECORDS ------------
+Student: Samdarsh Kumar Pandey | UID: 25BCD10040 | Event ID: 101
+Student: Demo Student | UID: DEMO001 | Event ID: 101
+
+============================================
+              CAMPUSCONNECT
+       Campus Event & Club Management
+============================================
+1. View all events
+2. Register for an event
+3. View student clubs
+4. View registrations
+5. Event summary
+6. Exit
+Enter your choice: Thank you for using CampusConnect!

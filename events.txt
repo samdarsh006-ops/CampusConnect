@@ -1,0 +1,3 @@
+W|101|Python Bootcamp|20-11-2026|40|0|Data Science Faculty
+C|102|CU Cultural Night|25-11-2026|100|0|Open Air Theatre
+S|103|Future of AI|28-11-2026|60|0|Computer Science
